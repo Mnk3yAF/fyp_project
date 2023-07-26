@@ -1,0 +1,3 @@
+include ':app'
+rootProject.name = "fyp_project"
+include ':openCVLibrary3413'

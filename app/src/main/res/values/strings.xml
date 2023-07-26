@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">fyp_project</string>
+    <string name="clientid">00a18bb42c7c4b3da5b1a73ae4d5d7d7</string>
+    <string name="redirecturi">http://localhost:3000</string>
+</resources>
